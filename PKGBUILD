@@ -1,7 +1,7 @@
-pkgname=aya-prover-nightly
+pkgname=aya-prover
 pkgver=r$(date +%Y%m%d)
 pkgrel=1
-pkgdesc="Aya Prover - a proof assistant"
+pkgdesc="Aya Prover - a proof assistant - From Github Release"
 arch=('x86_64')
 url="https://github.com/aya-prover/aya-dev"
 license=('MIT')  # Adjust according to the software's license
